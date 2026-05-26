@@ -2,12 +2,13 @@
     "agents": [
         "copilot"
     ],
-    "cloud": false,
+    "packages": [
+        "laravel/fortify"
+    ],
     "skills": [
-        "fortify-development",
-        "laravel-best-practices",
         "wayfinder-development",
         "inertia-react-development",
-        "tailwindcss-development"
+        "tailwindcss-development",
+        "developing-with-fortify"
     ]
 }
