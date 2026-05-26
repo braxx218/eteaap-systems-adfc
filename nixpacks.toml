@@ -10,7 +10,7 @@ cmds = [
 
 [phases.build]
 cmds = [
-    'npm run build'
+    'APP_URL=http://localhost npm run build'
 ]
 
 [start]
